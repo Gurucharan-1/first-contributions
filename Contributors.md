@@ -49,6 +49,7 @@ z54c6hf
 - [Niqa Nabila](https://github.com/niqanabila16) - Niqa Nabila was here, looking forward to contribute more to the community!!!
 - [Yashank Sogra] - Wassup github gng !!!! Finally here !!
 - [Joyal Gigi] - First step to the world of Open Source!
+- [gurucharan singh](https://github.com/Gurucharan-1/first-contributions) - here to contribute to the society
 - [ mayank ] - This is my first step of learning open source contribution
 - [Khushi] - This is my first open source contribution.
 - [Taku] - This is my first open source contribution.
